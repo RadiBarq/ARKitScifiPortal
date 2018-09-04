@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "88ac55bbe126829d3d71a5f26e0c3185"
+build_time: [1536035424, 218926000]
+inputs:
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/PortalViewController.swift": [1536035424, 0]
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/Helpers/SCNVector3Extension.swift": [1527700760, 0]
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/SCNNodeHelpers.swift": [1535989586, 0]
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/Helpers/FloatingPointExtension.swift": [1527700760, 0]
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/AppDelegate.swift": [1527700759, 0]
+  "/Users/radibarq/Downloads/ARKit by Tutorials Sample/building-your-portal/projects/starter/Portal/Portal/Helpers/RWLabel.swift": [1527700760, 0]
